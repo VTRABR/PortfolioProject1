@@ -40,4 +40,4 @@ You can access the dataset through this [link](https://www.kaggle.com/datasets/a
 The Tableau project is accessible [here](https://public.tableau.com/shared/23GSSB7W8?:display_count=n&:origin=viz_share_link).
 
 
-### Thanks a lot for taking a look at my portfolio! If you want more details about any project, feel free to ask.
+### Thanks a lot for taking a look at my portfolio! If you want more details about any project, feel free to ask!
