@@ -42,6 +42,6 @@ If needed please ask me and I will send the 2 CSV files (I couldn't upload the f
 
 As you can see on the query, it was performed some data exploration to make it possible to understand better the Covid situation in different periods and locations. I created a CTE and a View at the end.
 
-
+## Tableau_Project
 
 
