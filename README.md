@@ -11,6 +11,10 @@ After cleaning the data, I did some pivot tables to better understand our client
 so it was easier to understand the information visually. At last I created slicers so the bike owners could adapt the information for their needs if other questions arose from seeing
 the original charts.
 
-Unfortunately I couldn't showcase my ability to use XLOOKUP on this project but im working on a new one that I will showcase that skill!
+The original dataset is on the bike_buyers sheet. The "WorkingSheet" has the data cleaned, the "PivotTable" has the pivot tables that I created, and the "Dashboard" sheet 
+shows the interactive dashboard that i created.
+
+Unfortunately I couldn't showcase my ability to use XLOOKUP on this project but I'm currrently working on a new one that will showcase that skill!
 
 ## PowerBI_Project
+
