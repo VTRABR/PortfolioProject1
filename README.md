@@ -44,4 +44,10 @@ As you can see on the query, it was performed some data exploration to make it p
 
 ## Tableau_Project
 
+The dataset used for this project was about Airbnb listings in Washington (USA). Here we had some interesting information like the number of bedrooms, price, reviews, etc. Using this information I could calculate
+some fields like revenue throughout the year, price per bedroom, etc. Then I transformed it into interactive graphics in Tableau. These insights would help a person that is thinking of starting an Airbnb on making  
+better-informed decisions.
 
+The link to the dataset is [here](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
+
+The link to my Tableau project is [here](https://public.tableau.com/shared/23GSSB7W8?:display_count=n&:origin=viz_share_link)
