@@ -27,3 +27,4 @@ the average salary and created a new column with that information. After the dat
 
 ## SQL_Project
 
+The dataset used for this project was about Coronavirus (COVID-19) Deaths and Vaccinations. The link for the dataset used is [here](https://ourworldindata.org/covid-deaths)
