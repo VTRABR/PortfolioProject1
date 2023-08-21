@@ -25,4 +25,5 @@ I added the Power "BI_Final Project_Raw" so you can see the original data and co
 I performed some data-cleaning activities on this dataset. I deleted unnecessary columns; split columns by delimiter and comma to make the information clearer and deleted the confusing parts; I calculated
 the average salary and created a new column with that information. After the data cleaning, I created an interactive dashboard on the "Report view" so it adjusts to your needs. 
 
-## SQLQuery 
+## SQL_Project
+
