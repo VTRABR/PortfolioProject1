@@ -20,11 +20,18 @@ Unfortunately, I couldn't showcase my ability to use XLOOKUP on this project but
 
 This data comes from a survey with data professionals. There is some really interesting data, like happiness levels with work, average salary, industry, favorite programming tool, etc.
 
-I added the Power "BI_Final Project_Raw" so you can see the original data and compare with the final result on the PowerBI_project".
+I added the Power "BI_Final Project_Raw" so you can see the original data and compare it with the final result on the PowerBI_project".
 
 I performed some data-cleaning activities on this dataset. I deleted unnecessary columns; split columns by delimiter and comma to make the information clearer and deleted the confusing parts; I calculated
 the average salary and created a new column with that information. After the data cleaning, I created an interactive dashboard on the "Report view" so it adjusts to your needs. 
 
 ## SQL_Project
 
-The dataset used for this project was about Coronavirus (COVID-19) Deaths and Vaccinations. The link for the dataset used is [here](https://ourworldindata.org/covid-deaths)
+The dataset used for this project was about Coronavirus (COVID-19) Deaths and Vaccinations. The link for the dataset used is [here](https://ourworldindata.org/covid-deaths).
+
+For demonstrating that I could use JOINS statements on this project, I created 2 separate files from de original one. One of them contains information about the Deaths and the other the vaccination information.
+If needed please ask me and I will send the 2 CSV files (I couldn't upload the files due to the huge size of the files).
+
+As you can see on the query, it was performed some data exploration to make it possible to understand better the Covid situation in different periods and locations. 
+
+
