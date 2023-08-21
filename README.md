@@ -25,7 +25,15 @@ I added the Power "BI_Final Project_Raw" so you can see the original data and co
 I performed some data-cleaning activities on this dataset. I deleted unnecessary columns; split columns by delimiter and comma to make the information clearer and deleted the confusing parts; I calculated
 the average salary and created a new column with that information. After the data cleaning, I created an interactive dashboard on the "Report view" so it adjusts to your needs. 
 
-## SQL_Project_Data_EXPL
+
+## SQL_Project_Cleaning
+
+This dataset was about Nashville Housing (Owners, Sale prices, Property Addresses, etc). I added the original dataset if you are interested in seeing the file as "SQL_Data_Cleaning_Raw". 
+
+I performed data cleaning processes in this file in SQL, so we could understand better the data and fix some errors (Duplicates for example).
+
+
+## SQL_Project_Data_Exploration
 
 The dataset used for this project was about Coronavirus (COVID-19) Deaths and Vaccinations. The link for the dataset used is [here](https://ourworldindata.org/covid-deaths).
 
